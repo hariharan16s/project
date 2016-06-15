@@ -4,8 +4,8 @@ ubuntu:latest
 
 ## Docker image build
 
-Build the docker image from the github Dockerfile
-   `docker build -t hari_project github.com/hariharan16s/project`
+    Build the docker image from the github Dockerfile
+    docker build -t hari_project github.com/hariharan16s/project
 
 ## Usage
 
