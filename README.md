@@ -2,10 +2,9 @@
 
 ubuntu:latest
 
-## Installation
+## Docker image build
 
-1. Install Docker
-2. Build the docker image from the github Dockerfile
+Build the docker image from the github Dockerfile
    `docker build -t hari_project github.com/hariharan16s/project`
 
 ## Usage
